@@ -6,9 +6,9 @@ Questo progetto è un frontend (FE) sviluppato in JavaScript e React, che consis
 
 Questa applicazione consiste in un'interfaccia grafica che consente:
 
-- Per l'utente: di visualizzare le sale, l'elenco dei film e la programmazione delle proiezioni. All'accesso, la ricerca sarà automaticamente impostata tramite la libreria moment per mostrare tutti i film la cui programmazione termina tra la data corrente e una settimana dopo.
+- Per l'utente [no login]: di visualizzare le sale, l'elenco dei film e la programmazione delle proiezioni. All'accesso, la ricerca sarà automaticamente impostata tramite la libreria moment per mostrare tutti i film la cui programmazione termina tra la data corrente e una settimana dopo.
 
-- Per l'amministratore: di accedere all'area riservata dove sarà possibile caricare l'elenco completo delle sale, dei film e delle programmazioni utilizzando file CSV (presenti nel progetto backend collegato di seguito). È importante notare che non è disponibile la registrazione diretta nell'applicazione, quindi per accedere all'area amministratore è necessario registrarsi tramite Postman. Tutti i passaggi necessari sono spiegati nel file readme.md del backend di questo progetto.
+- Per l'amministratore: di accedere all'area riservata dove sarà possibile caricare l'elenco completo delle sale, dei film e delle programmazioni utilizzando file CSV (presenti nel progetto backend collegato di seguito). Nel readme del progetto backend sono riportati i dati di accesso.
 
 ## Come utilizzare il sito
 
